@@ -1,0 +1,70 @@
+{
+    "category":[
+                {  
+                "id":1,
+                "name":"Fruits & Vegitables",
+                "sub":{
+                            "Fresh vegetables":["Potato,Onion & Tomato",
+                                                "Cucumber & Capsicum","Leafy Vegetables","Root vegetables",
+                                                "Beans, Bringals & Okra","Cubbage & Cauliflower","Gourd"
+                                                ,"Pumpkin","Drumstick","Spacialty"],
+                            "Herbs & Seasonings":[],
+                            "Fresh Fruits":[],
+                            "Organic Fruits & Vegetables":[],
+                            "Cuts & Sprouts":[],
+                            "Exotic Fruits &Veggies":[],
+                            "Flower Bouquets, Bunches":[]
+                        }
+                }, 
+                {
+                    "id":2,
+                    "name":"Foodgrains, Oil & Masala",
+                    "sub":{}
+                },
+                {
+                    "id":3,
+                    "name":"Bakery, Cakes & Dairy",
+                    "sub":{}
+                },
+                {
+                    "id":4,
+                    "name":"Beverages",
+                    "sub":{}
+                },
+                {
+                    "id":5,
+                    "name":"Snacks & Branded Food",
+                    "sub":{}
+                },
+                {
+                    "id":6,
+                    "name":"Beauty & Hygiene",
+                    "sub":{}
+                },
+                {
+                    "id":7,
+                    "name":"Cleaning & Household",
+                    "sub":{}
+                },
+                {
+                    "id":8,
+                    "name":"Kitchen,Garden & pets",
+                    "sub":{}
+                },
+                {
+                    "id":9,
+                    "name":"Eggs,Meat & Fish",
+                    "sub":{}
+                },
+                {
+                    "id":10 ,
+                    "name":"Gourmet & World Food",
+                    "sub":{}
+                },
+                {
+                    "id":11 ,
+                    "name":"Baby Care",
+                    "sub":{}
+                }
+    ]
+}
